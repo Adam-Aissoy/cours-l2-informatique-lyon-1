@@ -1,0 +1,16 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	ZERO              3007
+//	DEBUT             3002
+//	ZZZZZZZZZ         300A
+//	AFFICHAGE         3008
+//	$               3000
+//	$               3001
+//	$               3002
+//	$               3003
+//	$               3004
+//	$               3005
+//	$               3006
+

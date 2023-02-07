@@ -1,0 +1,12 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	HELLO             3005
+//	COURSE            3014
+//	$               3000
+//	$               3001
+//	$               3002
+//	$               3003
+//	$               3004
+
